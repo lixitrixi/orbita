@@ -1,2 +1,2 @@
 # orbita
-A retro-style gravity simulation coded with pygame.
+A simple gravity simulation coded with pygame.
